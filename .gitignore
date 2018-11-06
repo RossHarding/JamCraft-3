@@ -16,6 +16,6 @@
 *.out
 *.app
 *.log
-*.pdb
-Intermediate/*
+.pdb
+Intermediate/
 Saved/*
